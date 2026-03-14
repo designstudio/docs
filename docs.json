@@ -16,7 +16,18 @@
           {
             "group": "Sobremesas",
             "pages": [
-              "passatempo"
+              "passatempo",
+              "nutella"
+            ]
+          },
+          {
+            "group": "Campanhas",
+            "pages": [
+              "oscar-2026",
+              "gira-friday-2025",
+              "untitled-page",
+              "programa-de-fidelidade-cashback",
+              "roblox"
             ]
           }
         ]
